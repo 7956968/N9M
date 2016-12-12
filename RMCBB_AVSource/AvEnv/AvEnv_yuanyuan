@@ -1,0 +1,4 @@
+export _AV_CBB_ROOT_DIR_=/home/streamax/Development/N9M/RMCBB_Release
+export _AV_PRODUCT_HEADER_ROOT_DIR_=/home/streamax/Development/N9M/RMCBB_Release/include
+export _AV_APP_ROOT_DIR_=/home/streamax/Development/N9M/out
+export _AV_RELEASE_ROOT_DIR_=/home/streamax/Development/N9M/out

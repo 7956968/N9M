@@ -1,0 +1,4 @@
+export _AV_CBB_ROOT_DIR_=/home/shliu/RMCBB_Release
+export _AV_PRODUCT_HEADER_ROOT_DIR_=/home/shliu/RMCBB_Release/include
+export _AV_APP_ROOT_DIR_=/home/shliu/N9MProduct-proj
+export _AV_RELEASE_ROOT_DIR_=/home/shliu/N9MProduct-proj

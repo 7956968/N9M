@@ -1,0 +1,5 @@
+---- CAvSnapTask::GetSignalSnapTask Matches (4 in 2 files) ----
+AvSnapTask.cpp (\\192.168.51.43\development\n9m\rmcbb_avsource_6aii_3515\avdevice\src):            if(GetSignalSnapTask(&stuSignalSnap))
+AvSnapTask.cpp (\\192.168.51.43\development\n9m\rmcbb_avsource_6aii_3515\avdevice\src):        if(GetSignalSnapTask(&pstuSignalSnap))
+AvSnapTask.cpp (\\192.168.51.43\development\n9m\rmcbb_avsource_6aii_3515\avdevice\src):bool CAvSnapTask::GetSignalSnapTask(AvSnapPara_t *snapparam)
+AvSnapTask.h (\\192.168.51.43\development\n9m\rmcbb_avsource_6aii_3515\avdevice\include):	bool GetSignalSnapTask(AvSnapPara_t *snapparam);
